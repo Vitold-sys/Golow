@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoLow</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="History_of_Search">Map</string>
+    <string name="change">Change Location</string>
+    <string name="weather">Weather</string>
+</resources>
